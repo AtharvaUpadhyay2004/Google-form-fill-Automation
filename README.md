@@ -22,7 +22,6 @@ The script performs the following steps:
    - Pin Code
    - Date of Birth
    - Gender
-   - Verification Code
 3. Submits the form.
 
 ### Key Variables in `selenium_script.py`
@@ -32,6 +31,5 @@ The script performs the following steps:
 - `pin_code`: Pin code to be entered in the form.
 - `dob`: Date of birth to be entered in the form.
 - `gender`: Gender to be entered in the form.
-- `verification_code`: Verification code to be entered in the form.
 
 
